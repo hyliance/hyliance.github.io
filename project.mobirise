@@ -311,7 +311,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wholesale-screen-printed-t-shirts-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/meridian-bridge-2000x1500.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
@@ -492,7 +492,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wholesale-screen-printed-t-shirts-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/meridian-bridge-2000x1500.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
@@ -935,7 +935,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#000000",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -943,6 +943,65 @@
           "_anchor": "gallery1-w",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#f3c649"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts4-t",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/meridian-bridge-2000x1500.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>113 East 3rd St<br>Yankton, South Dakota<br>57078<br><br><br>\n<strong>Contacts</strong><br>\nSales: downtownsp@hotmail.com<br>Art Department: dtspgraphics@gmail.com<br>\nPhone: (605) - 260 - 2134<br>Hours: 8 AM to 5 PM CST",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "downtownsp@homtail.com",
+            "alerts": {
+              "success": "Thank you for messaging us! We will get back to you as soon as we can!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },
@@ -1195,6 +1254,65 @@
           "_anchor": "gallery1-15",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#f3c649"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts4-t",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/meridian-bridge-2000x1500.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>113 East 3rd St<br>Yankton, South Dakota<br>57078<br><br><br>\n<strong>Contacts</strong><br>\nSales: downtownsp@hotmail.com<br>Art Department: dtspgraphics@gmail.com<br>\nPhone: (605) - 260 - 2134<br>Hours: 8 AM to 5 PM CST",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "downtownsp@homtail.com",
+            "alerts": {
+              "success": "Thank you for messaging us! We will get back to you as soon as we can!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },

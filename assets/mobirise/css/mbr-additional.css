@@ -590,6 +590,7 @@ h6,
 }
 
 
+
 #header5-f .mbr-section-title {
   color: #ffffff;
   text-align: center;
@@ -669,6 +670,13 @@ h6,
 #menu-c .close-icon::after {
   background-color: #ffffff;
 }
+#contacts4-t STRONG {
+  color: #f3c649;
+}
+#contacts4-t P {
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 
 #header5-x .mbr-section-title {
@@ -749,6 +757,12 @@ h6,
 #menu-y .close-icon::before,
 #menu-y .close-icon::after {
   background-color: #ffffff;
+}
+#contacts4-t STRONG {
+  color: #f3c649;
+}
+#contacts4-t P {
+  font-family: 'Montserrat', sans-serif;
 }
 
 
