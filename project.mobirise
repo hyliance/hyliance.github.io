@@ -133,6 +133,14 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "0",
@@ -189,15 +197,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-u",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -220,7 +220,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -487,6 +487,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1b",
           "_params": {
             "labelsColor": "#232323",
@@ -532,12 +537,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -748,6 +748,13 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c",
+              "text-align": "left",
+              "font-size": "48px"
+            }
+          },
           "_anchor": "msg-box5-19",
           "_params": {
             "imageSize": "45",
@@ -794,14 +801,7 @@
           },
           "title": "Better Screen Printing for an even better price!",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#fac51c",
-              "text-align": "left",
-              "font-size": "48px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "header1",
@@ -1221,6 +1221,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "msg-box5-1a",
           "_params": {
             "imageSize": "45",
@@ -1267,12 +1272,7 @@
           },
           "title": "Better Embroidery for an even better price!",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#fac51c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "header1",
@@ -1579,6 +1579,19 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c",
+              "font-size": "36px"
+            },
+            "H1": {
+              "font-size": "36px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left",
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "msg-box5-1c",
           "_params": {
             "imageSize": "45",
@@ -1597,7 +1610,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
             "inverse": true,
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": false
           },
@@ -1625,20 +1638,7 @@
           },
           "title": "<h1>With over 1,900 different promotional items we can promote anything you need!</h1>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#fac51c",
-              "font-size": "36px"
-            },
-            "H1": {
-              "font-size": "36px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "left",
-              "color": "#fac51c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "header1",
