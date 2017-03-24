@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "promo.html",
     "name": "DTSP",
     "theme": {
       "name": "mobirise3",
@@ -1627,7 +1627,8 @@
               "font-size": "36px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#fac51c"
             }
           }
         },
