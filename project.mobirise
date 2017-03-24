@@ -1589,7 +1589,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
             "inverse": true,
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButtons": false
           },
