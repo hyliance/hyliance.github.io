@@ -428,6 +428,12 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
 }
+#slider3-u H2 {
+  text-align: center;
+}
+#slider3-u P {
+  text-align: center;
+}
 #contacts4-t STRONG {
   color: #f3c649;
 }

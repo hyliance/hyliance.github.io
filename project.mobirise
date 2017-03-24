@@ -189,7 +189,15 @@
             "showBullets": true
           },
           "_anchor": "slider3-u",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
