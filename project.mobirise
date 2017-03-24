@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Screenprinting.html",
+    "currentPage": "promo.html",
     "name": "DTSP",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 42,
+    "uniqCompNum": 43,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -240,8 +240,8 @@
             "timeout": "6",
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenprinting2x-2000x770.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/sidecar-on-screen-printing-press-2000x1038.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -269,7 +269,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/promotional-products-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1349,7 +1349,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/professional-screen-printing-2000x1186.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/promotional-products-2000x1500.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1366,8 +1366,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "SCREEN PRINTING",
-          "text": "We offer a full Screen Printing Service. We print on a variety of T-shirts, Polos and Sweatshirts for businesses, locoal sports teams and events! We Provide anything from simple 1-2 color designs to very complicated 6 color process illustrations!<br><br>Take a look below at some of our previous work!&nbsp;<br>",
+          "title": "Promotional Products",
+          "text": "Do you need promotional products to help market your business at an event or to just hand out to new customers? Don't worry, we got you covered with a range of products from Koozies, letter openers, key chains, lawn chairs to even portable phone chargers!<br><br>Take a look below at some of examples!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -1498,8 +1498,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170126-091937-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170126-091937-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/custom-koozies-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/custom-koozies-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1508,18 +1508,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170126-091953-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170126-091953-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20161214-2-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161214-2-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/577591-array-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/577591-array-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1528,8 +1518,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170323-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170323-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1434-800x573.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1434.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1538,18 +1528,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170323-1-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170323-1-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20161220-192444-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161220-192444-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/letter-opener-3-1116-2000x1760-800x704.jpg",
+                "image": "@PROJECT_PATH@/assets/images/letter-opener-3-1116-2000x1760.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1558,8 +1538,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170119-185640-2000x2005-800x802.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170119-185640-2000x2005.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/custom-economy-drawstring-backpack-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/custom-economy-drawstring-backpack-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1568,98 +1548,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170119-185707-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170119-185707-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170302-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170302-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170302-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170302-1-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20161208-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161208-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20161208-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161208-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170323-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170323-1-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170323-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170323-2-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20161214-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161214-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20161214-3-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161214-3-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20161214-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161214-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/customshape2-2000x977-800x390.jpg",
+                "image": "@PROJECT_PATH@/assets/images/customshape2-2000x977.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1672,7 +1562,7 @@
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery1-14",
+          "_anchor": "gallery1-16",
           "articleLayout": false,
           "allItem": "All"
         }
