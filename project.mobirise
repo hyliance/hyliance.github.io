@@ -330,13 +330,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW US",
+          "text": "Like us on Facebook",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/dtscreenprinting/?ref=aymt_homepage_panel\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
