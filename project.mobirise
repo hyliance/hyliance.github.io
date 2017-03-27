@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contatctus.html",
+    "currentPage": "promo.html",
     "name": "DTSP",
     "theme": {
       "name": "mobirise3",
@@ -65,10 +65,12 @@
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#28324e"
             },
             "H3": {
-              "font-size": "84px"
+              "font-size": "84px",
+              "color": "#28324e"
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
@@ -95,7 +97,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -126,7 +128,7 @@
           },
           "title": "About Us",
           "text": "located in Historic Downtown Yankton, South Dakota where we have our state of the art screen printing and embroidery services as well as our CAD printing production!&nbsp;Our company is a proud supplier of logoed and blank apparel and promotional products. We supply companies in South Dakota as well as other states across the nation with logoed apparel that proudly advertises their business, events or team. We carry many name brand polos, t-shirts, jackets, and athletic apparel including Nike, Gildan, Port Authority, Jerzee, Eddie Bauer, Champion, Real Tree, Adidas, and many more.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Services</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"contatctus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Services</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contatctus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us<br></a>"
         },
         {
           "_tags": [
@@ -135,10 +137,12 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#2969b0"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -242,7 +246,7 @@
           "title1": "",
           "subtitle1": "",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.sanmar.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SanMar<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.sanmar.com/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SanMar<br></a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/untitled-600x779.jpg",
@@ -258,7 +262,7 @@
           "title2": "",
           "subtitle2": "",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"http://www.hollowaysportswear.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Holloway</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.hollowaysportswear.com/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Holloway</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/hitpromo-1453915991-600x600.jpg",
@@ -274,7 +278,7 @@
           "title3": "",
           "subtitle3": "",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Hit Promo</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Hit Promo</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -330,7 +334,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -346,11 +350,13 @@
           "_name": "contacts4",
           "_styles": {
             "STRONG": {
-              "color": "#f3c649"
+              "color": "#fac51c"
             },
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts4-t",
@@ -363,7 +369,7 @@
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.4",
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>113 East 3rd St<br>Yankton, South Dakota<br>57078<br><br><br>\n<strong>Contacts</strong><br>\nSales: downtownsp@hotmail.com<br>Art Department: dtspgraphics@gmail.com<br>\nPhone: (605) - 260 - 2134<br>Hours: 8 AM to 5 PM CST",
@@ -412,13 +418,13 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -430,16 +436,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -455,10 +461,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-18",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "fontSize": "1.05",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
@@ -517,6 +523,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#2969b0"
             }
           },
           "_anchor": "form1-1b",
@@ -564,7 +573,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -605,7 +614,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -621,11 +630,13 @@
           "_name": "contacts4",
           "_styles": {
             "STRONG": {
-              "color": "#f3c649"
+              "color": "#fac51c"
             },
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts4-t",
@@ -638,7 +649,7 @@
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.4",
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>113 East 3rd St<br>Yankton, South Dakota<br>57078<br><br><br>\n<strong>Contacts</strong><br>\nSales: downtownsp@hotmail.com<br>Art Department: dtspgraphics@gmail.com<br>\nPhone: (605) - 260 - 2134<br>Hours: 8 AM to 5 PM CST",
@@ -687,13 +698,13 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -705,16 +716,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -730,10 +741,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-18",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "fontSize": "1.05",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
@@ -1094,11 +1105,13 @@
           "_name": "contacts4",
           "_styles": {
             "STRONG": {
-              "color": "#f3c649"
+              "color": "#fac51c"
             },
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts4-t",
@@ -1111,7 +1124,7 @@
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.4",
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>113 East 3rd St<br>Yankton, South Dakota<br>57078<br><br><br>\n<strong>Contacts</strong><br>\nSales: downtownsp@hotmail.com<br>Art Department: dtspgraphics@gmail.com<br>\nPhone: (605) - 260 - 2134<br>Hours: 8 AM to 5 PM CST",
@@ -1160,13 +1173,13 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -1178,16 +1191,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1203,10 +1216,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-18",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "fontSize": "1.05",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
@@ -1452,11 +1465,13 @@
           "_name": "contacts4",
           "_styles": {
             "STRONG": {
-              "color": "#f3c649"
+              "color": "#fac51c"
             },
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts4-t",
@@ -1469,7 +1484,7 @@
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.4",
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>113 East 3rd St<br>Yankton, South Dakota<br>57078<br><br><br>\n<strong>Contacts</strong><br>\nSales: downtownsp@hotmail.com<br>Art Department: dtspgraphics@gmail.com<br>\nPhone: (605) - 260 - 2134<br>Hours: 8 AM to 5 PM CST",
@@ -1518,13 +1533,13 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -1536,16 +1551,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1561,10 +1576,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-18",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "fontSize": "1.05",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
@@ -1701,7 +1716,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -1818,11 +1833,13 @@
           "_name": "contacts4",
           "_styles": {
             "STRONG": {
-              "color": "#f3c649"
+              "color": "#fac51c"
             },
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts4-t",
@@ -1835,7 +1852,7 @@
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.4",
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>113 East 3rd St<br>Yankton, South Dakota<br>57078<br><br><br>\n<strong>Contacts</strong><br>\nSales: downtownsp@hotmail.com<br>Art Department: dtspgraphics@gmail.com<br>\nPhone: (605) - 260 - 2134<br>Hours: 8 AM to 5 PM CST",
@@ -1884,13 +1901,13 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -1902,16 +1919,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1927,10 +1944,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-18",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "fontSize": "1.05",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
