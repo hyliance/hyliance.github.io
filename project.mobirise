@@ -84,7 +84,7 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-q",
           "_params": {
-            "imageSize": "49",
+            "imageSize": "59",
             "paddingTop": "4",
             "paddingBottom": "1",
             "parallax": false,
@@ -97,7 +97,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
