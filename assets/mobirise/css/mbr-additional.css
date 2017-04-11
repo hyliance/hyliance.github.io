@@ -455,10 +455,6 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
 }
-#social-buttons4-1e .mbr-section-title,
-#social-buttons4-1e .btn-social {
-  color: #fff;
-}
 #slider3-u H2 {
   text-align: center;
   color: #ffffff;
@@ -479,6 +475,10 @@ h6,
 #msg-box8-1k .lead P {
   font-family: 'Montserrat', sans-serif;
   font-size: 22px;
+}
+#social-buttons4-1e .mbr-section-title,
+#social-buttons4-1e .btn-social {
+  color: #fff;
 }
 #contacts4-t STRONG {
   color: #fac51c;
