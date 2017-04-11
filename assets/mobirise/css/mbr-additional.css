@@ -423,7 +423,7 @@ h6,
 }
 #msg-box7-q P {
   font-family: 'Droid Sans', sans-serif;
-  font-size: 20px;
+  font-size: 19px;
   text-align: left;
   color: #2969b0;
 }
@@ -455,6 +455,10 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
 }
+#social-buttons4-1e .mbr-section-title,
+#social-buttons4-1e .btn-social {
+  color: #fff;
+}
 #slider3-u H2 {
   text-align: center;
   color: #ffffff;
@@ -475,10 +479,6 @@ h6,
 #msg-box8-1k .lead P {
   font-family: 'Montserrat', sans-serif;
   font-size: 22px;
-}
-#social-buttons4-1e .mbr-section-title,
-#social-buttons4-1e .btn-social {
-  color: #fff;
 }
 #contacts4-t STRONG {
   color: #fac51c;
@@ -549,6 +549,15 @@ h6,
 #ext_menu-18 .link[aria-expanded="true"],
 #ext_menu-18 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#ext_menu-18.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-18 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-18 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 
 #form1-1b .form-control-label {
